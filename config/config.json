@@ -1,0 +1,7 @@
+{
+    "HOST": "irc.chat.twitch.tv",
+    "PORT": 6697,
+    "BOT_USERNAME": "pphopbot",
+    "CHANNEL_NAME": "qubee",
+    "OAUTH_TOKEN": "oauth:"
+}
